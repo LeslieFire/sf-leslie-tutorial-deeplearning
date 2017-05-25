@@ -16,3 +16,5 @@ embeddings/text8.zip
 *.data*
 */data
 .ipynb_checkpoints/
+
+*floyd*
